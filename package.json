@@ -1,0 +1,23 @@
+{
+  "name": "sit725_2025_t2_practice2",
+  "version": "1.0.0",
+  "description": "SIT 725 week2",
+  "homepage": "https://github.com/Tejasri7136/sit725_2025_t2_practice2#readme",
+  "bugs": {
+    "url": "https://github.com/Tejasri7136/sit725_2025_t2_practice2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejasri7136/sit725_2025_t2_practice2.git"
+  },
+  "license": "MIT",
+  "author": "Tejasri",
+  "type": "commonjs",
+  "main": "sever.js",
+  "scripts": {
+    "start": "node server_get.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
